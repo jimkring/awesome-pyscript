@@ -37,6 +37,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 ## Demos & Examples
 
+* [PyScript Official Examples](https://github.com/pyscript/pyscript/tree/main/pyscriptjs/examples)
 * [@tirthajyoti/PyScript-examples](https://github.com/tirthajyoti/PyScript-examples/)
   * [Demo: Random number generation using NumPy](https://tirthajyoti.github.io/pyscript_random_gen.html), [HTML Source](https://github.com/tirthajyoti/PyScript-examples/blob/main/examples/pyscript_random_gen.html)
   * [Demo: Basic Pandas](https://tirthajyoti.github.io/pyscript_pandas.html), [HTML Source](https://github.com/tirthajyoti/PyScript-examples/blob/main/examples/pyscript_pandas.html)
