@@ -1,6 +1,6 @@
 # Awesome PyScript (Python in the Browser) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> a framework that allows users to create rich Python applications in the browser using HTML’s interface.
+> _a framework that allows users to create rich Python applications in the browser using HTML’s interface_
 
 A curated list of [PyScript](https://github.com/pyscript/pyscript/) resources.
 
@@ -10,7 +10,7 @@ A curated list of [PyScript](https://github.com/pyscript/pyscript/) resources.
 * [Articles](#articles)
 * [Podcasts](#podcasts)
 * [Videos & Screencasts](#videos--screencasts)
-* [Examples](#examples)
+* [Demos & Examples](#Demos--Examples)
 * [Extensions & Plugins](#extensions--plugins)
 * [Other](#other)
 
@@ -35,7 +35,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 ## Videos & Screencasts
 * https://twitter.com/seanjtaylor/status/1520461136134434816
 
-## Demos and Examples
+## Demos & Examples
 
 * [@tirthajyoti/PyScript-examples](https://github.com/tirthajyoti/PyScript-examples/)
   * [Demo: Random number generation using NumPy](https://tirthajyoti.github.io/pyscript_random_gen.html) [HTML Source](https://github.com/tirthajyoti/PyScript-examples/blob/main/examples/pyscript_random_gen.html)
